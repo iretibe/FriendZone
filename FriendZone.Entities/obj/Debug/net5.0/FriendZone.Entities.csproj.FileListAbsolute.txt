@@ -1,0 +1,15 @@
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\bin\Debug\net5.0\FriendZone.Entities.deps.json
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\bin\Debug\net5.0\FriendZone.Entities.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\bin\Debug\net5.0\ref\FriendZone.Entities.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\bin\Debug\net5.0\FriendZone.Entities.pdb
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\bin\Debug\net5.0\FriendZone.Models.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\bin\Debug\net5.0\FriendZone.Models.pdb
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\FriendZone.Entities.csproj.AssemblyReference.cache
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\FriendZone.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\FriendZone.Entities.AssemblyInfoInputs.cache
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\FriendZone.Entities.AssemblyInfo.cs
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\FriendZone.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\FriendZone.Entities.csproj.CopyComplete
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\FriendZone.Entities.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\ref\FriendZone.Entities.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Entities\obj\Debug\net5.0\FriendZone.Entities.pdb

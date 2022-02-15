@@ -2,7 +2,7 @@
 
 namespace FriendZone.Models
 {
-    public class FriendModel
+    public class Friend
     {
         public Guid Id { get; set; }
         public string FirstName { get; set; }

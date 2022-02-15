@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FriendZone.Entities/1.0.0": {
+        "dependencies": {
+          "FriendZone.Models": "1.0.0"
+        },
+        "runtime": {
+          "FriendZone.Entities.dll": {}
+        }
+      },
+      "FriendZone.Models/1.0.0": {
+        "runtime": {
+          "FriendZone.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FriendZone.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FriendZone.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

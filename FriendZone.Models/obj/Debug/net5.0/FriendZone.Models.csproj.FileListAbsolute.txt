@@ -1,0 +1,12 @@
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\bin\Debug\net5.0\FriendZone.Models.deps.json
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\bin\Debug\net5.0\FriendZone.Models.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\bin\Debug\net5.0\ref\FriendZone.Models.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\bin\Debug\net5.0\FriendZone.Models.pdb
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\obj\Debug\net5.0\FriendZone.Models.csproj.AssemblyReference.cache
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\obj\Debug\net5.0\FriendZone.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\obj\Debug\net5.0\FriendZone.Models.AssemblyInfoInputs.cache
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\obj\Debug\net5.0\FriendZone.Models.AssemblyInfo.cs
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\obj\Debug\net5.0\FriendZone.Models.csproj.CoreCompileInputs.cache
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\obj\Debug\net5.0\FriendZone.Models.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\obj\Debug\net5.0\ref\FriendZone.Models.dll
+C:\Users\Somad\source\repos\FriendZone\FriendZone.Models\obj\Debug\net5.0\FriendZone.Models.pdb
