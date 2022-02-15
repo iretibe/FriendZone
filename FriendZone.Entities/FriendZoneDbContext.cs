@@ -5,17 +5,15 @@ namespace FriendZone.Entities
 {
     public class FriendZoneDbContext : DbContext
     {
-        public FriendZoneDbContext(DbContextOptions<FriendZoneDbContext> options) : base(options)
+        public FriendZoneDbContext(DbContextOptions options) : base(options)
         {
         }
 
         public virtual DbSet<Friend> Friends { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        protected override void OnModelCreating(ModelBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-            }
+            base.OnModelCreating(optionsBuilder);
         }
     }
 }
